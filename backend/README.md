@@ -1,4 +1,4 @@
-# Suna Backend
+# Syntra Backend
 
 ## Running the backend
 

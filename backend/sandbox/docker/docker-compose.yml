@@ -1,5 +1,5 @@
 services:
-  kortix-suna:
+  kortix-syntra:
     platform: linux/amd64
     build:
       context: .
